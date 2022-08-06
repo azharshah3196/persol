@@ -1,3 +1,2 @@
-# P
-ersol
+# Persol
 eyewear website
